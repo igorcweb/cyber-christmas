@@ -52,7 +52,7 @@ const christmas = [
 		title: 'Let It Snow'
 	},
 	{
-		title: 'Rudolph, the Red-Nosed Raindeer'
+		title: 'Rudolph, the Red-Nosed Reindeer'
 	},
 	{
 		title: 'Have Yourself a Merry Little Christmas'
