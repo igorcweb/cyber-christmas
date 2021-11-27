@@ -1,0 +1,22 @@
+{
+  "name": "cyber-christmas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcweb/cyber-christmas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorcweb/cyber-christmas/issues"
+  },
+  "homepage": "https://igorcweb.github.io/cyber-christmas",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
